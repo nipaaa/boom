@@ -1,0 +1,27 @@
+.first-sec{
+    background-image: url(img/bg.jpg);
+    background-repeat: no-repeat;
+    height: 600px;
+    background-color: rgba(0, 0, 0, .7);
+    background-blend-mode: overlay;
+    
+}
+.first-head h1{
+    font-size: 60px;
+}
+.slider-sec{
+    background-image: url(img/slider.jpg);
+    background-repeat: no-repeat;
+    height: 600px;
+    background-color: rgba(0, 0, 0, .7);
+    background-blend-mode: overlay;
+   
+    
+}
+.slider-pad{
+    padding-top: 160px;
+}
+
+.grp-img img{
+    width:1350px;
+}
